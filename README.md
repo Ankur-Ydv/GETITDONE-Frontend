@@ -2,7 +2,7 @@
 #### GETITDONE is responsve and basic todolist App | TODO LIST WEBAPP
 
 ## Demo
-#### https://getitdone-backend.onrender.com/api/
+#### https://get-done.netlify.app/
 
 ## Installation Guide
 ### clone the project
